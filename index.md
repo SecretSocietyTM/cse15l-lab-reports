@@ -26,3 +26,8 @@ for (int i = 0; i < members.length; i++) {
     }
 }
 ```
+
+## PLans FOR THE FUTURE
+Unlike many other groups such as ours, we strive for better, for greater and for louder. 
+That is why the next meet up will include a full live peformance by Ye, aka Kanye along with a live stunt performance. 
+![Image](https://www.scottmaydaredevil.co.uk/smd/wp-content/uploads/2016/03/bikefirejump-3-1.jpg)
