@@ -47,6 +47,7 @@ Here is a list of commands you can use:
 * ls 
 * ls -lat
 * pwd 
+
 > There are many more commands but these are some of the basic ones you can use to maneuver around the directories and file spaces.
 
 Here is what running `cd -` and `ls -a` do:
@@ -143,3 +144,5 @@ Here is a screen shot of me using these tools:
 ## Final Regards
 Congratulations, you just learned everything I literally just learned last week and still have a very small grasp of. Hopefully this was useful to you, imaginary friend I have been talking to in my head for the past 30 minutes. I wish you good luck on your CSE15L adventure, goodbye
 # **:)**
+
+Checking if this is updated or not on the web
