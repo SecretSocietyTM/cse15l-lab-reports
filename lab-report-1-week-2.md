@@ -144,5 +144,3 @@ Here is a screen shot of me using these tools:
 ## Final Regards
 Congratulations, you just learned everything I literally just learned last week and still have a very small grasp of. Hopefully this was useful to you, imaginary friend I have been talking to in my head for the past 30 minutes. I wish you good luck on your CSE15L adventure, goodbye
 # **:)**
-
-Checking if this is updated or not on the web
