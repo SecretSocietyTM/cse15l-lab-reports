@@ -1,6 +1,7 @@
 Link to Lab Report 1:\
 [Lab Report 1; Week 2](https://secretsocietytm.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
+Link to Lab Report2:\
 [Lab Report 2; Week 4](https://github.com/SecretSocietyTM/cse15l-lab-reports/blob/main/lab-report-2-week-4.html)
 
 **HELLO** and *WELCOME* to 
