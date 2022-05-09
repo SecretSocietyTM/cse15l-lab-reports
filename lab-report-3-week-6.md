@@ -51,6 +51,49 @@ Here is the file in question:
 Pretty cool huh?
 
 ---
-## **CHAPTER 2:** * Setting Up GitHUb Access from ieng6
+
+## **CHAPTER 2:** Setting Up GitHUb Access from ieng6
+
+***Was not able to get GitHub ssh token thing to work unfortunately***
+
+---
+
+## **CHAPTER 3:** Copying Whole Directories Using `scp -r`
+
+Its not very difficult to copy an entire directory from your computer, in this example I will be showing you that I copied my markdown-parse directory found on my GitHub folder on my computer to my ieng6 account.
+
+Here are the files being copied
+
+![Image](./images4Lab3/copyingDirectory1.PNG)
+
+And here is proof that the entire directory is now on my ieng6 account
+
+![Image](./images4Lab3/copyingDirectory2.PNG)
+
+Once markdown-parse is on the ieng6 account, I am able to compile and run it like I would on my local machine. Here is what that looks like:
+
+![Image](./images4Lab3/logginRun.PNG)
+
+Wow, the singular test I had on the MarkdownParseTest.java file ran, what a relief.
+
+Those were the basics of copying and running directories/ repositories from your computer to the ieng6 account. 
+
+A more streamlined way to copy and run the files to check that everything works can be achieved by combining the 2 commands into one command.
+
+Here is the singular command I used to copy, access the directory of, and run the MarkdownParseTest.java file:
+* `scp -r . secretSoc:~/markdown-parsev2; ssh secretSoc "cd markdown-parsev2; javac -cp .:lib/junitseTest.java; java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"`
+
+Its very long, but as I mentioned earlier, it consists of copying (the scp) the directory, logging into my ieng6 account (the ssh), accessing the right directory (the cd markdown-parsev2), and compiling and running (the javac and java).
+
+Here is what that looks like:
+
+![Image](./images4Lab3/copyingRun1.PNG)
+![Image](./images4Lab3/copyingRun2.PNG)
+
+Very Cool!!!!!
+
+---
+## **CLOSING MESSAGE** (Not Important to Lab Report)
+Learning to use UNIX commands and doing all these interesting things is fun; however I tend to forget half of the stuff we learn in class because I don't personally use it too often, but learning more of these things that streamline the ssh use or make using the ieng6 server's more like using my local computer and GitHub allows me to practice a bit. Unforunataly I was not able to get the ssh to work with GitHub to allow me to use the git push command, but hopefully I can get this fixed :)
 
 
