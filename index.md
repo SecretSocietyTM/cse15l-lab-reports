@@ -7,6 +7,9 @@ Link to Lab Report 2:\
 Link to Lab Report 3:\
 [Lab Report 3; Week 6](https://secretsocietytm.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
+Link to Lab Report 4:\
+[Lab Report 4; Week 8](https://secretsocietytm.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
 **HELLO** and *WELCOME* to 
 # SECRET SOCIETY
 ---
